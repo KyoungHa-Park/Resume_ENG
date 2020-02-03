@@ -4,11 +4,11 @@
 + github : https://github.com/KyoungHa-Park
 
 ### EXPERIENCE
-+ Maeil Darie Co,. LTD (Jan '14 ~ Working ) :  Data Analyst / Personal Information Management / Promotion with Dining Co. (subsidary) 
++ Maeil Darie Co,. LTD (Jan '14 ~ Working ) :  Data Analyst / Personal Information Management / Promotion with Dining Co.(affiliate) 
   + Participate membership project, include data structure design and adjusted process. 
   + Send message to brand managers using Telegram to share promotion results. 
-  + 2개의 외식 관계사 브랜드와 프로모션 기획, 진행 및 성과평가 까지의 마케팅 활동을 진행하고 있습니다. 
-  + Customer behavior data(log성 자료)을 통해, Using Python, searching customer type classification and activity indicator 
+  + With two Dining Co.(affiliate), Management Overall promorion cycle(plan/action/evalution). 
+  + Combined log format data analysis, Using Python, searching customer type classification and activity indicator 
   + CS 이력 및 설문 등을 통해 수집된 text 자료를 활용하여, 서비스 개선 사항을 도출하였습니다. 
   + Using Visulalization tool python or R을 이용하여, 현업이 이해하기 쉽도록 시각화 하여 제공하고 있습니다. 
 
