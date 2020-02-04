@@ -4,7 +4,7 @@
 + github : https://github.com/KyoungHa-Park
 
 ### EXPERIENCE
-+ Maeil Darie Co,. LTD (Jan '14 ~ Working ) :  Data Analyst / Personal Information Management / Promotion with Dining Co.(affiliate) 
++ Maeil Dairies Co., Ltd (Jan '14 ~ Working ) :  Data Analyst / Personal Information Management / Promotion with Dining Co.(affiliate) 
   + Participate membership project, include data structure design and adjusted process. 
   + Send message to brand managers using Telegram to share promotion results. 
   + With two Dining Co.(affiliate), Management Overall promorion cycle(plan/action/evalution). 
@@ -17,8 +17,7 @@
 
 ### SKILLS
 + Programing tool : Python, R, SQL
-  + Machine learning : Using sickit-learn, data scale adjust and classification.
-  + Deep learning : using Tensorflow, NLP 분석(맥락찾기) 및 emotion classification.
+  + Machine learning : Using sickit-learn, data scale adjust and category classification.
   + DB handling : Handling various SQL(such as Oceal SQL, MS-SQL, MySQL), Retenation Data processing(eg. cohort)
   + Web Crawling : Combine selenium & beautifulsoup, getting data in iframe web environment.
   + Data Visualization : R
