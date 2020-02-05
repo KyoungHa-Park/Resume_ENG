@@ -16,8 +16,8 @@
 
 ### SKILLS
 + Programing tool : Python, R, SQL
-  + Machine learning : Using sickit-learn, data scale adjust and category classification.
-  + DB handling : Handling various SQL(such as Oceal SQL, MS-SQL, MySQL), Retenation Data processing(eg. cohort)
+  + Machine learning : Data scale adjust and category classification to sickit-learn, pyhton.
+  + DB handling : Handling various SQL(such as Oceal SQL, MS-SQL, MySQL)
   + Web Crawling : Combine selenium & beautifulsoup, getting test/image data in iframe web environment.
 + Otherwise : Personal Information Management
   + According to Personal Information Law, Established company process of Personal Information Management.
