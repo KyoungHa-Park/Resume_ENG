@@ -5,9 +5,9 @@
 
 ### EXPERIENCE
 + Maeil Dairies Co., Ltd (Jan '14 ~ Working ) :  Data Analyst / Personal Information Management / Promotion with Dining Co.(affiliate) 
-  + Using dunnhumby tool, Analysis Home plus market sales of cheese category. 
-  + Participated membership project, include data structure design and adjusted process. 
-  + Managed Promorion action(e.g. plan/action/evalution) with two dining Co.(affiliate)
+  + Using dunnhumby tool, Analysis 'Home plus' market sales of cheese category. 
+  + Participated membership project, include designing data structure and process. 
+  + Managed promortion action(e.g. plan/action/evalution) with two dining Co.(affiliate)
   + Using Python, transform data to analyze customer in App.
 
 + the-BNI(Feb '13 ~ Jul '13) :  Counsulting Public Institutions 
@@ -20,7 +20,7 @@
   + DB handling : Handling various SQL(such as Oceal SQL, MS-SQL, MySQL), Retenation Data processing(eg. cohort)
   + Web Crawling : Combine selenium & beautifulsoup, getting test/image data in iframe web environment.
 + Otherwise : Personal Information Management
-  + According to Personal Information Law, Establish a inner process of Personal Information Management.
+  + According to Personal Information Law, Established company process of Personal Information Management.
 
 ### EDUCATION 
 + BA, Statistics - Sungkyunkwan University (Mar '04 ~ Feb '11)
